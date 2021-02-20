@@ -3,6 +3,8 @@
 目前還沒弄完
 科學班考完(考不上就是會考考完)繼續弄==
 
+用的VScode + Python 3.9.2
+
 需要安裝selenium 
 > pip install selenium 
 
